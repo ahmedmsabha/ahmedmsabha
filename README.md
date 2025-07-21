@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Ahmed AbuSabha – a passionate Computer Science & Engineering student and web developer, driven by curiosity and a love for building impactful digital experiences.
 
-<!--
-**ahmedmsabha/ahmedmsabha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 My expertise revolves around modern TypeScript development:
+- **Front End:** Next.js & React – crafting responsive, user-friendly interfaces.
+- **Back End:** NestJS & Node.js – architecting scalable and efficient APIs.
 
-Here are some ideas to get you started:
+🚀 Recent Projects:
+- Dishify
+- Vidly
+- Uploadit
+- Broadify
+- MovieHub
+- PenSpace
+- Tell Me a Story
+- Rankify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ I thrive on learning new technologies, experimenting with ideas, and collaborating in open source. Whether it's building full-stack apps, exploring cloud solutions, or refining UX, I enjoy every phase of development.
+
+🌍 Beyond code, I dream of traveling and discovering new cultures, believing that great software bridges communities and inspires creativity worldwide.
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/ahmedmsabha/)
+
+---
+
+Curious about my work or want to collaborate? Check out my repos, reach out, or just say hi!
